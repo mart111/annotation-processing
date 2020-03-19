@@ -15,6 +15,7 @@ import java.lang.annotation.Target;
  *
  * }
  * Will generate.
+ * @Generated
  * public class Demo_New {
  *
  *     public void init() {
